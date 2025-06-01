@@ -38,3 +38,6 @@ f: signal frequency
 𝑓
 )
 ϕ(θ,f): phase shift (we'll simulate it)
+
+📈 OUTPUT:
+A smooth 3D surface showing how the phase varies with angle and frequency — like a “phase map” of an RIS element. 
