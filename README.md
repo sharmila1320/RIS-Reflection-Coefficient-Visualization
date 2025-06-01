@@ -41,3 +41,5 @@ f: signal frequency
 
 📈 OUTPUT:
 A smooth 3D surface showing how the phase varies with angle and frequency — like a “phase map” of an RIS element. 
+
+![output_plot](https://github.com/user-attachments/assets/a0d277bc-45df-47a9-ad0c-249a2f10c931)
