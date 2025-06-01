@@ -1,4 +1,4 @@
-Project 1: RIS Reflection Coefficient Visualization
+#Project_Name: RIS Reflection Coefficient Visualization
 🎯 Objective:
 Simulate and visualize how the reflection coefficient (a phase-shifted complex value) changes with frequency and incident angle in a RIS (Reconfigurable Intelligent Surface) element.
 
